@@ -1,5 +1,4 @@
 # import the flask web framework
-import flask as Flask
 import json
 import redis as redis
 from flask import Flask, request
